@@ -4,7 +4,7 @@
 
 <a href="https://github.com/KieronJenkins" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Follow">
 <a href="https://uk.linkedin.com/in/kieronjenkins" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Follow">
-[![CodeFactor](https://www.codefactor.io/repository/github/kieronjenkins/unity-radius-tool/badge)](https://www.codefactor.io/repository/github/kieronjenkins/unity-radius-tool)
+[![CodeFactor](https://www.codefactor.io/repository/github/kieronjenkins/unity-radius-tool/badge)](https://www.codefactor.io/repository/github/KieronJenkins/UnityObjectRadius)
 
 ## About
 The radius tool is designed to make it easier to space objects around a unity game scene which is lightweight and easy to use.
