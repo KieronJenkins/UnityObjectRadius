@@ -1,6 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
+#if UNITY_EDITOR
 public class ObjectRadius : MonoBehaviour
 {
     [Range(0.0f, 10f)] [SerializeField] private float objectRadius;
@@ -57,3 +58,4 @@ public class ObjectRadius : MonoBehaviour
         CustomMesh
     }
 }
+#endif
